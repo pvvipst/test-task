@@ -8,3 +8,7 @@ Version node 18.0.0
 ## There is build version
 
 ### `./build`
+
+## There is docker version
+
+### `docker-compose -f docker-compose.dev.yml up`
